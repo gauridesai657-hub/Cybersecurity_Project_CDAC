@@ -1,2 +1,9 @@
 # Cybersecurity_Project_CDAC
-A comprehensive cybersecurity governance project for a fictional nation, covering cyber laws, digital rights, cybercrime regulations, data protection, AI governance, critical infrastructure security, incident response, and national cybersecurity policies with practical case studies and compliance frameworks. 
+Developed a National cybersecurity Law framework defining digital rights, privacy protections, cybercrime penalties, AI governance, breach response procedures, and security compliance frameworks.
+
+
+Academic Information
+
+Course: CDAC Cybersecurity 
+Institution: Vidyalankar Institute of Technology
+Contributors: Gauri Desai (24105A0021), Siddhi Naik (24105A0047)
